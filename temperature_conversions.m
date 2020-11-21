@@ -25,3 +25,10 @@ plot(kelvin_to_celsius(degK), degK)
 xlabel('Celsius')
 ylabel('Conversion')
 legend('Fahrenheit', 'Kelvin', 'location', 'northwest')
+
+xlabel('Celsius')
+ylabel('Conversion')
+degN = linspace(0, 33, 34);
+plot(newton_to_celsius(degN), degN)
+xlim([0, 100])
+legend('Fahrenheit', 'Kelvin', 'Newton', 'location', 'northwest')
