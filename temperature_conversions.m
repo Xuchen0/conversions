@@ -1,5 +1,5 @@
 %TEMPERATURE_CONVERSIONS
-%TEMPERATURE_CONVERSIONS
+% Display graph of temperature conversions between C, F, K, and N.
 % Check temperature conversions between Kelvin, Fahrenheit, Celsius and
 % Newton
 
